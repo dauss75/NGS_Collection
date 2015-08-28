@@ -1,0 +1,15 @@
+index,tissuetype,condition,type
+sample1,SW,G0,day3
+sample2,SW,G2,day3
+sample3,SW,G0,day7
+sample4,SW,G2,day7
+sample5,B6,normal,day0
+sample6,B6,normal,day7
+sample7,MRL,HFD,day0
+sample8,B6,HFD,day0
+sample9,MRL,HFD,day7
+sample10,B6,HFD,day7
+sample11,MRL,normal,day0
+sample12,MRL,normal,day7
+sample13,SW,G0,day7
+sample14,SW,G2,day7
