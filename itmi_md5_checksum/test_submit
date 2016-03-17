@@ -1,0 +1,7 @@
+Universe   = vanilla
+Executable = test.sh
+Log        = test.log
+request_cpus = 8
+Output     = test.out
+Error      = test.error
+Queue
